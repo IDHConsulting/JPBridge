@@ -1,6 +1,6 @@
-# electV
+# JPBridge
 
-Create and manage electronic vouchers and coupons
+JavaPOS Peripheral Bridge - add new devices seamlessly to your POS application
 
 ## Getting Started
 
